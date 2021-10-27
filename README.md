@@ -1,3 +1,3 @@
 # Resume
 
-<img src="/Resume.pdf">
+<ins>Resume</ins> <br><br>  <img src="/Resume.pdf"/>
